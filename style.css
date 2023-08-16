@@ -3,15 +3,11 @@
     padding: 0;
 }
 @font-face {
-    font-family: stonage;
-    src: url('');
+    font-family: 'stonage';
+    src: url('font/stonehenge/stonehen.ttf');
 }
-
-
-
-  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300&display=swap');
- font-family: 'Cormorant Infant', serif; 
-
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300&display=swap');
+font-family: 'Cormorant Infant', serif; 
 
 header{
 width: 100%;
