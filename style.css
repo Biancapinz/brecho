@@ -26,12 +26,19 @@ nav{
 }
 
 main{
-    width: 100%;
+    width: 80%;
     height: 600px;
     display: block;
     float: left;
     background-color: white;
     margin-top: 20px;
+}
+
+aside{
+    height: 600px;
+    width: 20%;
+    float: left;
+    background-color: #44c767;
 }
 
 .div-slider{ 
