@@ -7,11 +7,13 @@
     src: url('font/stonehenge/stonehen.ttf');
 }
 @font-face {
-    font-family: 'butter';
-    src: url('font/butter_6/Butter.otf');
+    font-family: 'letsgo';
+    src: url('font/letsgo_2/LetsgoRegular.ttf');
 }
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300&display=swap');
-/* font-family: 'Cormorant Infant', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300&family=Playfair+Display:ital,wght@0,400;1,500;1,600;1,800&family=Poppins:ital,wght@0,200;1,300&display=swap');
+  .lembrete{font-family: 'Cormorant Infant', serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Poppins', sans-serif;}
 
 header{
 width: 100%;
@@ -26,10 +28,10 @@ background-color: #D9E1B7;
     float: left;
 }
 #name h1{
-    font-family: 'butter';
+    font-family: 'Cormorant Infant', serif;
     position: absolute;
     margin-left: 550px;
-    margin-top: 50px;
+    margin-top: 40px;
     color: #536600;
     float: left;
     font-size: 50px;

@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'stonage';
+    src: url('font/stonehenge/stonehen.ttf');
+}
+@font-face {
+    font-family: 'letsgo';
+    src: url('font/letsgo_2/LetsgoRegular.ttf');
+}
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300&family=Playfair+Display:ital,wght@0,400;1,500;1,600;1,800&family=Poppins:ital,wght@0,200;1,300&display=swap');
+  .lembrete{font-family: 'Cormorant Infant', serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Poppins', sans-serif;}
+#cx{
+    width: 300px;
+    height: 200px;
+    background-color: #c1cc91;
+    border-radius: 25px;
+    margin-left: 500px;
+    margin-top: 200px;
+}
+
+#cx{
+    text-align: center;
+}
+
+#cx h1{
+    font-family: 'letsgo';
+}
+
+#cx p{
+    font-family: 'Playfair Display', serif;
+}
+
+.myButton {
+	background-color:#b6c47c;
+	border-radius:28px;
+	border:1px solid #2d3701;
+	display:inline-block;
+	cursor:pointer;
+	color:#536600;
+	font-family:'letsgo';
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2d3701;
+}
+.myButton:hover {
+	background-color:#c1cc91;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
