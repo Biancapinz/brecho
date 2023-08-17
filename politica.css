@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'stonage';
+    src: url('font/stonehenge/stonehen.ttf');
+}
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300&display=swap');
+/* font-family: 'Cormorant Infant', serif; */
+
+header {
+width: 100%;
+height: 170px; 
+display: block;
+float: left;
+background-color: rgb(255, 255, 255);
+border-radius: 20PX;
+}
+
+    #texto{
+        margin-left: 10px;
+    }
+
+    body{
+        background-color: #96d68c;  
+    }
+
+    p{
+        width: 1300px;
+        height: 530px;
+        display: block;
+        float: left;
+        margin-left: 20px;
+       
+    }
+
+
+
+
+h1{
+    font-family: 'Cormorant Infant', serif; 
+}
+
+
