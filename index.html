@@ -16,23 +16,47 @@
     </nav>
 
     <main>
-        <ul class="slider"> 
-            <li> 
-                <input type="radio" id="promo1" name="slide" checked> 
-                <label for="promo1"></label> 
-                <img src="promoção.png" /> 
-            </li> 
-            <li> 
-                <input type="radio" id="promo2" name="slide" checked> 
-                <label for="promo2"></label> 
-                <img src="conjuntos.png" /> 
-            </li> 
-            <li> 
-                <input type="radio" id="promo3" name="slide" checked> 
-                <label for="promo3"></label> 
-                <img src="moda.png" /> 
-            </li> 
-        </ul> 
+        <div class="div-slider">
+            <ul class="slides-front">
+              <input type="radio" name="radio-btn" id="img-1" checked="">
+              <li class="slide-container">
+              <div class="slide">
+                <img src="moda.png" alt="">
+                  </div>
+              <div class="nav">
+                <label for="img-3" class="prev">‹</label>
+                <label for="img-2" class="next">›</label>
+              </div>
+              </li>
+          
+              <input type="radio" name="radio-btn" id="img-2">
+              <li class="slide-container">
+                  <div class="slide">
+                    <img src="promo.png" alt="">
+                  </div>
+              <div class="nav">
+                <label for="img-1" class="prev">‹</label>
+                <label for="img-3" class="next">›</label>
+              </div>
+              </li>
+          
+              <input type="radio" name="radio-btn" id="img-3">
+              <li class="slide-container">
+                <div class="slide">
+                    <img src="conjuntos.png" alt="">
+                  </div>
+              <div class="nav">
+                <label for="img-2" class="prev">‹</label>
+                <label for="img-1" class="next">›</label>
+              </div>
+              </li>
+          
+              <li class="nav-dots">
+                <label for="img-1" class="nav-dot" id="img-dot-1"></label>
+                <label for="img-2" class="nav-dot" id="img-dot-2"></label>
+                <label for="img-3" class="nav-dot" id="img-dot-3"></label>
+              </li>
+            </ul>
     </main>
 
     <footer> 
