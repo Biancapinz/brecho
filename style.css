@@ -27,7 +27,7 @@ nav{
 
 main{
     width: 80%;
-    height: 600px;
+    height: 530px;
     display: block;
     float: left;
     background-color: white;
@@ -35,10 +35,37 @@ main{
 }
 
 aside{
-    height: 600px;
+    height: 530px;
     width: 20%;
     float: left;
-    background-color: #44c767;
+    background-color: #B6C47C;
+    display: block;
+    padding-top: 30px;
+}
+
+h2{
+    color: white;
+    font-size: 30px;
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Cormorant Garamond', serif;
+    color: #F5FFCE;
+}
+
+#horarios{
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#servicos{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 .div-slider{ 
