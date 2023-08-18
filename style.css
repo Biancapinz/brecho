@@ -30,7 +30,7 @@ background-color: #D9E1B7;
 #name h1{
     font-family: 'letsgo';
     position: absolute;
-    margin-left: 550px;
+    margin-left: 500px;
     margin-top: 40px;
     color: #536600;
     float: left;
@@ -39,10 +39,11 @@ background-color: #D9E1B7;
 #icons a{
     color: #536600;
     text-decoration: none;
-    padding: 2px;
+    padding: 15px;
+    
 }
 #icons{
-    margin-left: 1100px;
+    margin-left: 1050px;
     margin-top: 20px;
 }
 
