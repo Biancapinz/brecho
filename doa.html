@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Como ajudamos</title>
+  <link rel="stylesheet" href="doa.css">
+</head>
+<body>
+  <div class="clickable-div" onclick="showText('text-content-1')"><span>
+    <h1>O planeta</h1>
+    <div class="text-content" id="text-content-1">
+        <p>Redução do Consumo de Produtos Novos.</p>
+        <p>Economia de Recursos Naturais.</p>
+        <p>Redução de Resíduos.</p>
+        <p>Promoção da Economia Circular.</p>
+        <p>No nosso site temos uma página para falarmos só sobre o Impacto que nosso brechó causa no planeta, confira  
+          para mais sobre informações.</p>
+        <a href="#" class="myButton">Confira</a>
+    </div>
+  </span></div>
+  
+  <div class="clickable-div" onclick="showText('text-content-2')">
+    <h1>Doações para caridade</h1>
+    <div class="text-content" id="text-content-2">
+      <p>O nosso brechó têm parcerias com organizações de caridade. Nós doamos uma porcentagem das vendas ou itens 
+        não vendidos para essas instituições, apoiando causas sociais, como combate à pobreza, educação, 
+        saúde e outros programas beneficentes.</p>
+        <h2>Confire algumas instituições para qual doamos</h2>
+        <h3>Clique nas imagens</h3>
+        <a href="https://www.brasilsemfome.org.br/?utm_source=googleads&gclid=Cj0KCQjw0IGnBhDUARIsAMwFDLm-5yhYH60IL9uq_LzsOXpOjt3Qq94jXgP13N66b-eIeOxfIp6vNOQaAmUwEALw_wcB"><img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/2935663/197524_731305.png" alt=""></a>
+        <a href="https://icdrs.org.br/"><img src="https://senge.org.br/wp-content/uploads/2022/06/20211124153154-icd.png" alt=""></a>
+        <a href="https://ici.ong/"><img src="https://static.vakinha.com.br/uploads/user/avatar/8835673/logo.jpg?ims=225x225" alt=""></a>
+        <a href="https://todospelaeducacao.org.br/doacao/"><img src="https://todospelaeducacao.org.br/wordpress/wp-content/uploads/2020/09/logo_tpe-960x960-1.png" alt=""></a>
+    
+    
+    </div>
+  </div>
+  
+  <div class="clickable-div" onclick="showText('text-content-3')">
+    Click me to toggle text 3
+    <div class="text-content" id="text-content-3">
+      This is the hidden text for div 3.
+    </div>
+  </div>
+  
+  <!-- Add more similar divs as needed -->
+  
+  <script>
+    function showText(contentId) {
+      const textContent = document.getElementById(contentId);
+      textContent.style.display = textContent.style.display === "block" ? "none" : "block";
+    }
+  </script>
+</body>
+</html>
