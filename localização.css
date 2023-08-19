@@ -16,11 +16,12 @@ h1, h2{
 
 }
 h2{
-    font-family: 'stonage';
+    font-family: 'Cormorant Upright', serif;
 
 }
 h1{
     font-family: 'letsgo';
+    color:#536600
 }
 iframe{
     margin-left: 325px;
