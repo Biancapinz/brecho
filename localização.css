@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'stonage';
+    src: url('font/stonehenge/stonehen.ttf');
+}
+@font-face {
+    font-family: 'letsgo';
+    src: url('font/letsgo_2/LetsgoRegular.ttf');
+}
+*{
+    background-color: #dae0bb;
+}
+
+h1, h2{
+    text-align: center;
+    font-family: 'letsgo';
+
+}
+h2{
+    font-family: 'stonage';
+
+}
+h1{
+    font-family: 'letsgo';
+}
+iframe{
+    margin-left: 325px;
+}
