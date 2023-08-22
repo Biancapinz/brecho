@@ -200,3 +200,45 @@ p{
     input#img-3:checked ~ .nav-dots label#img-dot-3{ 
         background: white;
     } 
+
+.myButton {
+background-color:#44c767;
+border-radius:28px;
+border:1px solid #4be85a;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family: 'Cormorant Infant', serif;
+font-size:17px;
+padding:16px 31px;
+text-decoration:none;
+text-shadow:0px 1px 0px #74d465;
+margin-top: 60px;
+margin-left: 60px;
+margin-bottom: 20px;
+
+}
+
+.myButton:hover {
+background-color:#a2eb7b;
+
+}
+
+.myButton:active {
+position:relative;
+top:1px;
+}
+
+
+footer a{
+list-style-type: none;
+font-family: 'Cormorant Infant', serif;
+margin-left: 20px;
+margin-top: 30px;
+color: white;
+}
+
+footer p{
+    margin-left: 20px;
+    color: white;
+}
