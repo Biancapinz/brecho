@@ -20,6 +20,7 @@ body {
     height: 100vh;
     margin: 0;
     
+    
   }
   
   .clickable-div {
@@ -43,14 +44,21 @@ body {
   .clickable-div h2{
     color: #2d3701;
     font-size: 20px;
+    background-color: #e1e6cd;
   }
   .clickable-div h3, h4{
     color: #2d3701;
+    background-color: #e1e6cd;
+  }
+
+  p{
+    background-color: #e1e6cd;
   }
   
   .text-content {
     display: none;
     margin-top: 10px;
+    background-color: #e1e6cd;
   }
 .myButton {
 	background-color:#c9d49d;
