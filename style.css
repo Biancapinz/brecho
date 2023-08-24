@@ -250,24 +250,6 @@ p{
       position: relative;
       
     }
-    #iconroupa{
-      
-    }
-    #iconacessorio{
-  
-    }
-    #iconimpacto{
-  
-    }
-    #iconpromoção{
-  
-    }
-    #iconajuda{
-  
-    }
-    #iconmaps{
-       
-    }
   
     /* Links inside the navbar */
     .navbar a {
@@ -386,4 +368,5 @@ color: white;
 footer p{
     margin-left: 20px;
     color: white;
+    background-color: #206326;
 }
