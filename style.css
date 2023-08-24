@@ -25,6 +25,9 @@ nav{
     background-color: #44c767;
     
 }
+#botaodropdow i{
+  color: white;
+}
 .topnav {
     background-color: rgb(68, 112, 68);
     overflow: hidden;
@@ -110,14 +113,17 @@ nav{
     background-color: inherit;
     font-family: inherit; /* Important for vertical align on mobile phones */
     margin: 0; /* Important for vertical align on mobile phones */
+
    
   }
 #botaodropdow{
   margin-top: 10px;
+ 
 }
   /* Add a red background color to navbar links on hover */
   .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: red; 
+    background-color: rgb(255, 255, 255); 
+    color: black;
   }
   
   /* Dropdown content (hidden by default) */
