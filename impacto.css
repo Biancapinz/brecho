@@ -16,6 +16,11 @@
   font-family: 'Playfair Display', serif;
   font-family: 'Poppins', sans-serif;}
 
+
+  body{
+
+    background-color: #D9E1B7;
+  }
    body h1{
     font-family: 'letsgo';
     margin-left: 65vh;
@@ -47,7 +52,7 @@
 
 
 .texto2{
-    background-color: rgb(143, 199, 135);
+  background-color: #B6C47C;
     height: 30vh;
     width: 120vh;
     border-radius: 50px 0px 0px 50px;
