@@ -12,33 +12,6 @@
 }
 #titulo2{
     color: #536600;
-    margin-left: 60px;
-    display: block;
-}
-#icones{
-    float: right;
-    position: absolute;
-    right: 3%;
-    top: 3%;
-}
-#icones a{
-    color: #536600;
-}
-h1{
-    color: #536600;
-}
-hr{
-    color: #536600;
-}
-
-#h2{
-    color: #536600;
-    font-size: 20px;
-    margin-left: 60px;
-    margin-right: 20px;
-    
-}
-
 .card{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
@@ -77,4 +50,31 @@ h2{
     margin-left: 20px;
     font-size: 32px;
 }
+    margin-left: 60px;
+    display: block;
+}
+#icones{
+    float: right;
+    position: absolute;
+    right: 3%;
+    top: 3%;
+}
+#icones a{
+    color: #536600;
+}
+h1{
+    color: #536600;
+}
+hr{
+    color: #536600;
+}
+
+#h2{
+    color: #536600;
+    font-size: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
+    
+}
+
 

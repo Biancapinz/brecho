@@ -43,7 +43,7 @@ background-color: #D9E1B7;
     
 }
 #icons{
-    margin-left: 1050px;
+    margin-left: 1025px;
     margin-top: 10px;
     
 }
@@ -338,6 +338,7 @@ text-shadow:0px 1px 0px #74d465;
 margin-top: 60px;
 margin-left: 60px;
 margin-bottom: 20px;
+justify-content: center;
 
 }
 

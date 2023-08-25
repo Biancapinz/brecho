@@ -28,6 +28,12 @@
     margin-bottom: 5vw;
   }
 
+  body .voltar a{
+    color: #536600;
+    text-decoration: none;
+    margin-left: 5px;
+    margin-top: 5px;
+  }
   h2{
     display: block;
     font-family: 'letsgo';
