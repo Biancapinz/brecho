@@ -1,0 +1,63 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: 'stonage';
+    src: url('font/stonehenge/stonehen.ttf');
+}
+@font-face {
+    font-family: 'letsgo';
+    src: url('font/letsgo_2/LetsgoRegular.ttf');
+}
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300&family=Playfair+Display:ital,wght@0,400;1,500;1,600;1,800&family=Poppins:ital,wght@0,200;1,300&display=swap');
+  .lembrete{font-family: 'Cormorant Infant', serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Poppins', sans-serif;}
+
+
+  body{
+
+    background-color: #D9E1B7;
+  }
+   body h1{
+    font-family: 'letsgo';
+    margin-left: 65vh;
+    display: block;
+    margin-bottom: 5vw;
+  }
+
+  h2{
+    display: block;
+    font-family: 'letsgo';
+    margin-left: 20vw;
+    
+  }
+
+  body p{
+    display: block;
+    margin-left: 5vh;
+    
+
+  }
+
+.texto{
+    background-color: rgb(143, 199, 135);
+    height: 30vh;
+    width: 140vh;
+    margin-top: 5vw;
+    border-radius: 0px 50px 50px 0px;
+}
+
+
+.texto2{
+  background-color: #B6C47C;
+    height: 30vh;
+    width: 120vh;
+    border-radius: 50px 0px 0px 50px;
+   margin-left: 40vw;
+   margin-top: 5vw;
+}
+
+
