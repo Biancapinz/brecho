@@ -44,10 +44,16 @@ hr{
     border-radius: 5px 5px 0 0;
   }
 
-.card{
-    margin-top: 50px;
+  .card{
     margin-left: 20px;
     width: 200px;
     height: 300px;
     float: left;
+    margin-bottom: 30px;
+}
+
+h2{
+    color: #536600;
+    margin-left: 20px;
+    font-size: 32px;
 }

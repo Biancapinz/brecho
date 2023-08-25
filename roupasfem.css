@@ -22,6 +22,7 @@ h1{
 
 hr{
     color: #536600;
+    margin-bottom: 40px;
 }
 
 .card{
@@ -48,18 +49,19 @@ hr{
   }
 
 .card{
-    margin-top: 50px;
     margin-left: 20px;
     width: 200px;
     height: 300px;
     float: left;
+    margin-bottom: 30px;
 }
 
-main{
-    height: 250px;
-    width: 100%;
+h2{
+    color: #536600;
+    margin-left: 20px;
+    font-size: 32px;
 }
 
-#linha{
-    margin-top: 20%;
+#final{
+    margin-bottom: 20px;
 }
