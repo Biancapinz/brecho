@@ -1,11 +1,7 @@
-    *{
-        margin: 0
-        ;
-    }
-header{
-    background-color: rgb(233, 233, 231);
-    
+*{
+    background-color: #EDF4E7;
 }
+
 #titulo{
     text-align: center;
 }
@@ -30,7 +26,6 @@ header{
 }
 h1{
     color: #536600;
-    padding-top: 10px;
 }
 hr{
     color: #536600;
@@ -69,12 +64,17 @@ hr{
   img{
     border-radius: 5px 5px 0 0;
   }
-.card{
-    
+  .card{
     margin-left: 20px;
     width: 200px;
     height: 300px;
     float: left;
+    margin-bottom: 30px;
+}
 
+h2{
+    color: #536600;
+    margin-left: 20px;
+    font-size: 32px;
 }
 
