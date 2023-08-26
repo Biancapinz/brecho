@@ -11,6 +11,10 @@
     
 }
 
+.voltar a{
+  color: #536600;
+  text-decoration: none;
+}
 
 body {
     font-family: 'Lora', serif;
