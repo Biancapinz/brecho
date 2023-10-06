@@ -1,3 +1,10 @@
+.voltar a{
+    color: #536600;
+    text-decoration: none;
+    float: left;
+    position: absolute;
+    top: 1%;
+  }
 *{
     background-color: #EDF4E7;
 }
@@ -10,10 +17,12 @@
     position: absolute;
     right: 3%;
     top: 3%;
+    text-decoration: none;
 }
 
 #icones a{
     color: #536600;
+    text-decoration: none;
 }
 
 h1{

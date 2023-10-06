@@ -1,6 +1,13 @@
 *{
     background-color: #EDF4E7;
 }
+.voltar a{
+    color: #536600;
+    text-decoration: none;
+    float: left;
+    position: absolute;
+    top: 1%;
+  }
 
 #titulo{
     text-align: center;
