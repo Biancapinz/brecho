@@ -1,6 +1,13 @@
 *{
     background-color: #D9E1B7;
 }
+.voltar a{
+    color: #536600;
+    text-decoration: none;
+    float: left;
+    position: absolute;
+    top: 1%;
+  }
 #cad span{
     background-color: #bbc493;
 }
