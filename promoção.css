@@ -6,8 +6,7 @@
 body .voltar a{
     color: #536600;
     text-decoration: none;
-    margin-left: 5px;
-    margin-top: 5px;
+    
 }
 
 #titulo{
@@ -99,6 +98,7 @@ font-family: 'Poppins', sans-serif;
     float: left;
     margin-left: 20px;
     margin-top: 20px;
+    margin-right: 10px
   }
   .cards{
     width: 262px;
