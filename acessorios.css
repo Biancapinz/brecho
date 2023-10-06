@@ -1,7 +1,12 @@
 *{
     background-color: #EDF4E7;
 }
-
+.fa-home{
+    color: #536600;
+    text-decoration: none;
+    margin-top: 2px;
+    position: absolute;
+}
 #titulo{
     text-align: center;
 }
@@ -11,13 +16,13 @@
     margin-left: 60px;
 }
 #titulo2{
-    color: #536600;
+    color: #536600;}
+
 .card{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     display: block;
     margin-bottom: 20px;
-    
 }
 .divoculos{
     display: block;
@@ -39,7 +44,7 @@
   }
   .card{
     margin-left: 20px;
-    width: 200px;
+    width: 180px;
     height: 300px;
     float: left;
     margin-bottom: 30px;
@@ -50,9 +55,7 @@ h2{
     margin-left: 20px;
     font-size: 32px;
 }
-    margin-left: 60px;
-    display: block;
-}
+
 #icones{
     float: right;
     position: absolute;
@@ -61,6 +64,7 @@ h2{
 }
 #icones a{
     color: #536600;
+    text-decoration: none;
 }
 h1{
     color: #536600;
