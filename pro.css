@@ -35,9 +35,10 @@ hr{
     padding-bottom: 40px;
     margin-bottom: 0;
 }
-main img{
+main #prift{
     margin-top: 0;
     width: 700px;
+    border-radius: 10px;
 }
 .cards {
     background-color: #f0f0f0;
