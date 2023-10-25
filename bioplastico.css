@@ -7,12 +7,51 @@
     src: url('font/letsgo_2/LetsgoRegular.ttf');
 }
 *{
-    background-color: #e7e9e0;
-    
+    background-color: #EDF4E7;
 }
-.fa-home{
+.voltar a{
     color: #536600;
     text-decoration: none;
-    margin-top: 2px;
+    float: left;
     position: absolute;
+    top: 2%;
+  }
+
+#titulo{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#icones{
+    float: right;
+    position: absolute;
+    right: 3%;
+    top: 2%;
+}
+
+#icones a{
+    color: #536600;
+}
+
+h1{
+    color: #536600;
+}
+
+hr{
+    color: #536600;
+    margin: 0;
+}
+
+article .imgsarticle{
+    width: 500px;
+    margin-right: 80px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+article{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+article span{
+    margin-left: 40px;
 }
