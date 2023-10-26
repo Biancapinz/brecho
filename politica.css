@@ -37,5 +37,11 @@ border-radius: 20PX;
 h1{
     font-family: 'Cormorant Infant', serif; 
 }
+.voltar a{
+    color: #536600;
+    text-decoration: none;
+    margin-left: 48vw;
+    padding-top: 1vh;
+  }
 
 
