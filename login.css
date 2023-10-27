@@ -7,6 +7,7 @@
     float: left;
     position: absolute;
     top: 1%;
+    margin-left: 50vw;
   }
 #cad span{
     background-color: #bbc493;

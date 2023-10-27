@@ -31,7 +31,7 @@
   body .voltar a{
     color: #536600;
     text-decoration: none;
-    margin-left: 5px;
+    margin-left: 50vw;
     margin-top: 5px;
   }
   h2{
@@ -60,7 +60,7 @@
 .texto2{
   background-color: #B6C47C;
     height: 30vh;
-    width: 120vh;
+    width: 126.5vh;
     border-radius: 50px 0px 0px 50px;
    margin-left: 40vw;
    margin-top: 5vw;
